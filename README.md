@@ -11,6 +11,9 @@ If you need commercial production, please contact Email: 'business@picasso.today
 At the same time, we provide an example of raw material images for NFT production, which can be [downloaded and used](https://github.com/picassotoday/NftGeneratorOnMac/tree/main/NftLayerImagesExample)
 
 
+![Main interface](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/interface%20example.jpg)
+
+
 ## 中文(Chinese)
 这是一款在MAC(苹果电脑)上，批量生产NFT的应用程序，[软件下载包](https://www.picasso.today/release/PicassoNftGeneratorWithWater.zip), 解压后，双击'PicassoNftGeneratorWithWater.app'即可运行。
 [创建NFT的演示视频](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
@@ -20,3 +23,5 @@ At the same time, we provide an example of raw material images for NFT productio
 如果您需要商业生产，请联系 邮箱:'business@picasso.today' or Telegram:'picassotoday'
 
 同时，我们提供了生产NFT的原材料图片例子，可以[下载使用](https://github.com/picassotoday/NftGeneratorOnMac/tree/main/NftLayerImagesExample)
+
+![运行主界面](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/interface%20example.jpg)
