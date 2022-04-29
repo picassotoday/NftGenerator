@@ -12,7 +12,7 @@
 
 4. Main interface ![Main interface](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/interface%20example.jpg)
 
-5. If you want to create an NFT in one step, publish it and mint it to the blockchain (matic, ethereum) (opensea will automatically recognize your published NFT), you can use [web version picasso.today](https://www.picasso.today/#/create)
+5. <div style="color:red">If you want to create an NFT in one step, publish it and mint it to the blockchain (matic, ethereum) (opensea will automatically recognize your published NFT), </div>you can use [web version picasso.today](https://www.picasso.today/#/create)
 
 ## 中文(Chinese)
 1、这是一款在MAC(苹果电脑)上，批量生产NFT的应用程序，[下载软件包 PicassoNftGenerator.app.zip](https://www.picasso.today/release/PicassoNftGenerator.app.zip), 解压'PicassoNftGenerator.app.zip'，双击'PicassoNftGenerator.app'即可运行。
@@ -26,4 +26,4 @@
 
 4、主界面 ![主界面](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/interface%20example.jpg)
 
-5.如果您想一步创建NFT,并发布且mint到区块链（matic,ethereum）上去(opensea会自动识别您发布的nft),您可以使用 [网页版picasso.today](https://www.picasso.today/#/create)
+5.5. <div style="color:red">如果您想一步创建NFT,并发布且mint到区块链（matic,ethereum）上去(opensea会自动识别您发布的nft)</div>, 您可以使用 [网页版picasso.today](https://www.picasso.today/#/create)
