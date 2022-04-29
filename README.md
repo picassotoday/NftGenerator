@@ -1,9 +1,9 @@
 # NftGeneratorOnMac
 
 ## English(英文)
-1. This is an application for mass production of NFTs on MAC (Apple Computer), [download the package PicassoNftGeneratorWithWater.zip](https://www.picasso.today/release/PicassoNftGeneratorWithWater.zip), after unzip 'PicassoNftGeneratorWithWater.zip', double-click 'PicassoNftGeneratorWithWater.app' to run.
+1. This is an application for mass production of NFTs on MAC (Apple Computer), [download the package PicassoNftGeneratorWithWater.zip](https://www.picasso.today/release/PicassoNftGeneratorWithWater.zip), unzip 'PicassoNftGeneratorWithWater.zip', double-click 'PicassoNftGeneratorWithWater.app' to run.
 
-[The demonstration video of creating NFT, please download to watch locally](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
+    Demonstration video of creating NFT [please download mp4 to watch locally](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
 
 2. Note that the decompressed application of PicassoNftGeneratorWithWater.zip is watermarked.
 If you need commercial production, please contact Email: 'business@picasso.today' or Telegram: 'picassotoday', we look forward to cooperating with you
@@ -15,7 +15,7 @@ If you need commercial production, please contact Email: 'business@picasso.today
 ## 中文(Chinese)
 1、这是一款在MAC(苹果电脑)上，批量生产NFT的应用程序，[下载软件包 PicassoNftGeneratorWithWater.zip](https://www.picasso.today/release/PicassoNftGeneratorWithWater.zip), 解压'PicassoNftGeneratorWithWater.zip'，双击'PicassoNftGeneratorWithWater.app'即可运行。
 
-[创建NFT的示范视频，请下载到本地观看](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
+   创建NFT的示范视频 [请下载mp4到本地观看](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
 
 2、注意，PicassoNftGeneratorWithWater.zip解压后的应用程序是带水印的，
 如果您需要商业生产，请联系 邮箱:'business@picasso.today' or Telegram:'picassotoday', 我们期待与您的合作
