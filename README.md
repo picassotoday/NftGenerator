@@ -5,7 +5,7 @@
 
    Demonstration video of creating NFT [please download mp4 to watch locally](https://github.com/picassotoday/NftGeneratorOnMac/blob/main/example%20to%20generate%20nfts.mp4)
 
-2. PicassoNftGenerator.app is free and open source [source code] (https://github.com/picassotoday/NftGeneratorOnMac/SourceCode), please use it with confidence, and we will compile the windows and Linux versions recently, and provide it to everyone for free use
+2. PicassoNftGenerator.app is free and open source [source code](https://github.com/picassotoday/NftGeneratorOnMac/SourceCode), please use it with confidence, and we will compile the windows and Linux versions recently, and provide it to everyone for free use
    If you need commercial production, please contact Email: 'business@picasso.today' or Telegram: 'picassotoday', we look forward to cooperating with you
 
 3. At the same time, we provide an example of raw material images for NFT production, which can be [downloaded and used](https://github.com/picassotoday/NftGeneratorOnMac/tree/main/NftLayerImagesExample)
