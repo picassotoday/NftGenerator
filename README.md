@@ -1,4 +1,4 @@
-# NftGeneratorOnMac
+# NftGenerator(The mac version has been compiled, and the windows and Linux versions will also be compiled）
 
 ## English(英文)
 1. This is an application for mass production of NFTs on MAC (Apple Computer), [download the package PicassoNftGenerator.app.zip](https://www.picasso.today/release/PicassoNftGenerator.app.zip), unzip 'PicassoNftGenerator.app.zip', double-click 'PicassoNftGenerator.app' to run.
